@@ -5,10 +5,10 @@ jawaban pg
 3. d <br>
 4. <br>
 5. <br>
-6. <br>
-7. <br>
-8. <br>
-9. <br>
+6. e<br>
+7. c<br>
+8. c<br>
+9. b<br>
 10. <br>
 11. <br>
 12. <br>
