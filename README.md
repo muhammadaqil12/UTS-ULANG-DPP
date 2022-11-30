@@ -13,8 +13,8 @@ jawaban pg
 11. <br>
 12. <br>
 13. <br>
-14. <br>
-15. <br>
+14. a<br>
+15. e<br>
 16. <br>
 17. <br>
 18. <br>
